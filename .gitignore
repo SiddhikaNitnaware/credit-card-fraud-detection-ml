@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Data (never upload datasets)
+data/
+
+# Trained models (reproducible artifacts)
+model/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
